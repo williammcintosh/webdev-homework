@@ -1,4 +1,4 @@
-## Homework 0 - Git / Setup
+## Homework 1 - Git / Setup
 
 ### Installation
 
