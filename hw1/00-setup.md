@@ -19,12 +19,12 @@
 
 ### Setting up the Homework Repo (with SSH)
 
-1. Navigate to your preferred folder and clone the repo.
+1. Navigate to your preferred folder and clone the repo. Use any folder name for <folder-name>. 
 
 ```console
-$ git clone git@github.com:caterinasworld/webdev-homework.git webdev-homework
+$ git clone git@github.com:caterinasworld/webdev-homework.git <folder-name>
 
-Cloning into 'webdev-homework'...
+Cloning into '<folder-name>'...
 remote: Enumerating objects: 163, done.
 remote: Counting objects: 100% (163/163), done.
 remote: Compressing objects: 100% (93/93), done.
@@ -34,10 +34,10 @@ Resolving deltas: 100% (80/80), done.
 
 ```
 
-2. Navigate into the newly created `webdev-homework` folder and rename the remote.
+2. Navigate into the newly created `<folder-name>` folder and rename the remote.
 
 ```console
-$ cd webdev-homework/
+$ cd <folder-name>/
 
 $ git remote -v
 origin   git@github.com:caterinasworld/webdev-homework.git (fetch)
