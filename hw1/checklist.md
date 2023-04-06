@@ -1,6 +1,6 @@
-## Code Checks Checklist
+## Checklist
 
-Prior to turning in your assignment, complete the following checklist. There are several errors in the starter files that you will need to fix.
+Prior to turning in your assignment, complete the following checklist in regards to the code checks. There are several errors in the starter files that you will need to fix.
 
 #### Accessibility Code Check
 
